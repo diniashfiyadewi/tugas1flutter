@@ -3,8 +3,6 @@ void main(){
     print('Hello $firstName $lastName');
   }
 
-  void main(){
     sayHello('Dini', 'Ashfiya');
     sayHello('Nur', 'Maulidiya');
   }
-}

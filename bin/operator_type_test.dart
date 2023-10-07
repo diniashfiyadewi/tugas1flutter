@@ -6,5 +6,5 @@ var variabelInt = variabel as int;
 
 
 //var isInt = variabel is Int;
-//var isNotBoolean = variabel is! bool;
+var isNotBoolean = variabel is! bool;
 }

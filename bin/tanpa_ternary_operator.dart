@@ -7,5 +7,5 @@ void main(){
   } else {
     ucapan = 'Silahkan Coba Lagi';
   }
-  
+  print('Selamat Anda Lulus');
 }

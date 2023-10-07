@@ -3,8 +3,6 @@ void main(){
     print('Hello Word');
   }
 
-  void main() {
     sayHello();
     sayHello();
   }
-}

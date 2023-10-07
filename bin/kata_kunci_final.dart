@@ -4,4 +4,6 @@ void main(){
 
   firstName = "Nur";
   //lastName = "Maulidiya";
+
+  print('$lastName');
 }
